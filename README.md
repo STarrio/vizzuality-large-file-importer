@@ -7,3 +7,7 @@ To deploy the project, the only thing needed is to run
 docker-compose up -d
 ```
 at the root of the project.
+
+
+# API endpoints
+
