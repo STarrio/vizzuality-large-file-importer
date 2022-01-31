@@ -1,5 +1,5 @@
 # vizzuality-large-file-importer
-My solution to the coding challenge by Vizzuality 
+My solution to the coding challenge [Vizzuality, "Large File Importer Challenge"](https://github.com/Vizzuality/coding-challenge-examples/tree/software-engineer/importer-large-files)
 
 # Deployment instructions
 To deploy the project, the only thing needed is to run 
