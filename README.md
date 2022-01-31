@@ -10,4 +10,16 @@ at the root of the project.
 
 
 # API endpoints
+#### GET /files/status
+  * params: {url: string}
+Checks the import status of the file located at url.
+#### POST /files/import
+  * params: {url: string}
+Imports the file located at url into DB (takes a while).
+
+#### POST /files/cancel
+  * params: {url: string}
+Cancels an importing process for the same file located at url.
+
+
 
